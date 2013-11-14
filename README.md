@@ -19,7 +19,11 @@ GPLv2, Copyright 2013 David L Norris <dave@webaugur.com>, http://www.hamspot.com
 
 Dependencies
 ============
-LiquidCrystal
+
+http://arduino.cc/en/Reference/LiquidCrystal
+
 https://github.com/hamspot/RotaryEncoderAcceleration
+
 https://github.com/hamspot/Button
+
 https://github.com/hamspot/TickerPerSecond
