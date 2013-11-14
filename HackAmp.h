@@ -6,7 +6,6 @@
 
 #ifndef HackAmp_H_
 #define HackAmp_H_
-#include "Arduino.h"
 //add your includes for the project HackAmp here
 
 
