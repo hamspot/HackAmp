@@ -23,8 +23,6 @@
 #define ENC_L 2
 #define ENC_B A0
 
-#define UBRRH
-
 #include "HackAmp.h"
 #include <LiquidCrystal.h>
 #include <Button.h>
